@@ -1,3 +1,19 @@
-body {
+@charset "utf-8";
 
+body {
+	background-color: lemonchiffon;
+}
+
+img {
+	width: 400px
+}
+
+img:hover {
+	border: dashed #E9D0C9 5px;
+	border-radius: 60%;
+}
+h1 {
+	color: jadegreen;
+	letter-spacing: -1px;
+	text-shadow: 1px 1px 7px #DC7171
 }
